@@ -11,9 +11,17 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import java.util.List;
 
 /**
- * User: lmf@cic.tsinghua.edu.cn
- * Date: 13-11-25
- * Time: 上午11:13
+ * 
+ * <ul>
+ * <li>文件名称 : controller.BookController.java</li>
+ * <li>版权所有 : 版权所有(C)2016-2020</li>
+ * <li>公        司 : CST</li>
+ * <li>创建时间 : 2016年8月29日</li>
+ * <li>修改记录 : 无</li>
+ * </ul>
+ * 
+ * @author wenpengZhao
+ * @version 1.2
  */
 @Controller
 @RequestMapping("/book")
